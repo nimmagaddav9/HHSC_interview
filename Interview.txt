@@ -5,7 +5,7 @@ Front End / UI Developer -  Texas Health and Human Services Commission
 Q1. Features build? 
 
 Vijay Nimmagadda here, Austin, Texas.
-I am a core UI Developer with 10+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 
+I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3, JavaScript, React.js, and Redux. 
 In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
 Frontend is React, and used ATMOS (Own library) components used company wide.
 
@@ -40,6 +40,25 @@ Q3. Have you worked on Accessibility(a11y)?
 3. Add Images with Alt Text -  Giving proper label images to all tags. 
 4. Add Keyboard Navigation.
 5. Use a Descriptive URL.
+
+Q4. Which version of Angular did you work?
+v19.2
+^19.0.0	Active	2024-11-19	2025-05-19	2026-05-19
+^18.0.0	Long-term (LTS)	2024-05-22	2024-11-19	2025-11-19
+^17.0.0	Long-term (LTS)	2023-11-08	2024-05-08	2025-05-15
+Angular versions v2 to v16
+
+Q5. Which version of Java did you work on?
+
+JDK 23 is the latest release of the Java SE Platform. 
+JDK 21 is the latest Long-Term Support (LTS) release of the Java SE Platform.
+
+q5. What is IBM WebSphere Application Server 8?
+IBM WebSphere Application Server 8 is a version of the WebSphere application server platform from IBM, 
+considered a somewhat older version that may still be in use in some legacy systems, 
+but is generally recommended to be upgraded to newer versions due to potential security concerns and 
+lack of support for newer Java features and standards; it's important to note that while still supported by IBM, 
+it may be nearing the end of its lifecycle depending on the specific 8.x version and patch level. 
 ----------------------------------------------------------------
 1. What experience do you have with J2EE and Portal application development?
 
